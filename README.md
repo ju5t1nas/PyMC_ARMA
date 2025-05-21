@@ -1,5 +1,5 @@
 # PyMC_ARMA - Generalized ARMA(p,q) Model with PyMC and PyTensor
-This repository provides a simple implementation of a generalized ARMA(p,q) time series model using PyMC and PyTensor's `scan` function.
+This repository provides a simple implementation of a generalized Auto Regressive Moving Average ARMA(p,q) time series model using PyMC and PyTensor's `scan` function.
 The provided function enables fitting ARMA models of arbitrary order in a Bayesian setting.
 
 
